@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 85cf8d45164f9f84f89b7c43fb4363d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - pfKnife: {fileID: 8036117596688599314, guid: ef447d5e6c244f746b7fe4fdc691111a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

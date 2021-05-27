@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 95a98c163a243f94d8b4db3135bd8bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1976530380680839235
+    second: kay_attack_loop_fast_clean_0
+  - first:
+      213: -8076662399983304136
+    second: kay_attack_loop_fast_clean_1
+  - first:
+      213: 1213503225912617385
+    second: kay_attack_loop_fast_clean_2
+  - first:
+      213: 1610756726171348197
+    second: kay_attack_loop_fast_clean_3
+  - first:
+      213: 5585161680206956749
+    second: kay_attack_loop_fast_clean_4
+  - first:
+      213: 827113441673638438
+    second: kay_attack_loop_fast_clean_5
+  - first:
+      213: -5642828771692014464
+    second: kay_attack_loop_fast_clean_6
+  - first:
+      213: -2543077975031759711
+    second: kay_attack_loop_fast_clean_7
+  - first:
+      213: -81997258265480841
+    second: kay_attack_loop_fast_clean_8
+  - first:
+      213: -357367861167465419
+    second: kay_attack_loop_fast_clean_9
+  - first:
+      213: 5405173687884062801
+    second: kay_attack_loop_fast_clean_10
+  - first:
+      213: 1760361269990102505
+    second: kay_attack_loop_fast_clean_11
+  - first:
+      213: -7082905112389340876
+    second: kay_attack_loop_fast_clean_12
+  - first:
+      213: 1874641385275268431
+    second: kay_attack_loop_fast_clean_13
+  - first:
+      213: 5813976454739403577
+    second: kay_attack_loop_fast_clean_14
+  - first:
+      213: 2264067235027091204
+    second: kay_attack_loop_fast_clean_15
+  - first:
+      213: -3504998628490815044
+    second: kay_attack_loop_fast_clean_16
+  - first:
+      213: 3623139927007525829
+    second: kay_attack_loop_fast_clean_17
+  - first:
+      213: -3692233446650352402
+    second: kay_attack_loop_fast_clean_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340cf3cb8eb0e6b10800000000000000
+      internalID: 1976530380680839235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832cd36d65ee9ef80800000000000000
+      internalID: -8076662399983304136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ef4a21ca37d010800000000000000
+      internalID: 1213503225912617385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_3
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eca30355be8a5610800000000000000
+      internalID: 1610756726171348197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_4
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc80cd9e4fa728d40800000000000000
+      internalID: 5585161680206956749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_5
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62278effa4f7a7b00800000000000000
+      internalID: 827113441673638438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_6
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08491fe0125a0b1b0800000000000000
+      internalID: -5642828771692014464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_7
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acbc163e0c25bcd0800000000000000
+      internalID: -2543077975031759711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_8
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b7849defacdef0800000000000000
+      internalID: -81997258265480841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_9
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd8fcd2df5a0bf0800000000000000
+      internalID: -357367861167465419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_10
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502e9fc4d8030b40800000000000000
+      internalID: 5405173687884062801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_11
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59d1e8f3f0e6810800000000000000
+      internalID: 1760361269990102505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_12
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4313c3eb35774bd90800000000000000
+      internalID: -7082905112389340876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_13
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d149a5860140a10800000000000000
+      internalID: 1874641385275268431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_14
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9332a3528c46fa050800000000000000
+      internalID: 5813976454739403577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_15
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff36b97259b6f10800000000000000
+      internalID: 2264067235027091204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_16
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9d292515ebb5fc0800000000000000
+      internalID: -3504998628490815044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_17
+      rect:
+        serializedVersion: 2
+        x: 7446
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb71d0419af74230800000000000000
+      internalID: 3623139927007525829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kay_attack_loop_fast_clean_18
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 0
+        width: 438
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece6981e3d82ccc0800000000000000
+      internalID: -3692233446650352402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
