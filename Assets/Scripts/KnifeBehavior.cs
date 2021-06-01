@@ -53,9 +53,14 @@ public class KnifeBehavior : MonoBehaviour
             x+=1;
         }
         
-        if (x>500) {Debug.Log("ERROR: PROJECTILE EXISTS TOO LONG");}
-        //Debug.Log(rb.transform.position.y);
-        if (rb.transform.position.y < -5) {
+        //Remove if out of frame
+        if (rb.transform.position.y < -5 ) {
+            if (hits > 0) {
+                ScoreManager.score+= (hits*hits);
+                if (hits > ScoreManager.highestCombo) {
+                    ScoreManager.highestCombo = hits;
+                }
+            }
             Destroy(gameObject);
         }
     }
@@ -74,6 +79,7 @@ public class KnifeBehavior : MonoBehaviour
         }
         if (!already_hit) {*/
             hits += 1;
+            ScoreManager.score++;
             /*
             collided[arr_c] = col.GetInstanceID();
             arr_c+=1;

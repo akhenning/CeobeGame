@@ -16,10 +16,13 @@ public class KayBehavior : MonoBehaviour
     public bool LastWas1 = false;
     public int powerupState = 0;
     public int[] numbers = new int[4];
+    public int timeStateSwitch = 0;
+    int gametime = 0;
     //public AudioClip throwKnife;
     // Start is called before the first frame update
     void Start()
     {
+        gametime = ScoreManager.TotalGameTime;
         myPos = new Vector3(215,180,0);
         timer = 0;
         hasBeenChecked = false;
@@ -33,6 +36,7 @@ public class KayBehavior : MonoBehaviour
         numbers[1] = 9; // throw animation time fast
         numbers[2] = 10; // time knife leaves hand normally
         numbers[3] = 5;
+        powerupState = 0;
         animator.SetInteger("PowerupState",powerupState);
     }
 
@@ -43,14 +47,26 @@ public class KayBehavior : MonoBehaviour
         } 
     }
 
+    
+    // This method can only set 0/1
+    public void TogglePUpState() {
+        if (powerupState == 0) {
+            powerupState = 1;
+        } else {
+            Debug.Log("Incrementing timePowered:");
+            Debug.Log(ScoreManager.timePowered);
+            Debug.Log(x-timeStateSwitch);
+            ScoreManager.timePowered += x-timeStateSwitch;
+            powerupState = 0;
+        }
+        timeStateSwitch = x;
+        animator.SetInteger("PowerupState",powerupState);
+    }
+
     // Update is called once per frame
     void FixedUpdate() {
         hasBeenChecked = true;
-        //if (x%10 == 0) {
-        //    Debug.Log(timer);
-        //}
         x+=1;
-
 
         if (fire) {
             animator.SetInteger("Throwing",1);
@@ -68,6 +84,7 @@ public class KayBehavior : MonoBehaviour
             mousePos.Normalize();
             speed = speed/70 + 4;
             GameObject knife = Instantiate(pfKnife, new Vector3(-9,0,0),Quaternion.identity);
+            ScoreManager.knivesUsed += 1;
             //projectile.rb.velocity = new Vector2(-3,0);//direction * speed;
             knife.GetComponent<KnifeBehavior>().Setup(mousePos*speed);
             if (LastWas1) {
@@ -83,6 +100,9 @@ public class KayBehavior : MonoBehaviour
         
         if (timer == 0) {
             animator.SetInteger("Throwing",0);
+        }
+        if (powerupState == 1 && x == gametime) {
+            ScoreManager.timePowered += x-timeStateSwitch;
         }
     }
 }

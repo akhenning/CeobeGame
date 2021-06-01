@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 4ed51959f389c8f44bd81d3159d284ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4505294191746370738
+    second: raptoridlesheetclean_0
+  - first:
+      213: 8507823669568637756
+    second: raptoridlesheetclean_1
+  - first:
+      213: -5898559637259903591
+    second: raptoridlesheetclean_2
+  - first:
+      213: 921097558913684893
+    second: raptoridlesheetclean_3
+  - first:
+      213: -6517007845826885187
+    second: raptoridlesheetclean_4
+  - first:
+      213: 2353492164015669627
+    second: raptoridlesheetclean_5
+  - first:
+      213: 7053286801041535170
+    second: raptoridlesheetclean_6
+  - first:
+      213: -8336822669839780619
+    second: raptoridlesheetclean_7
+  - first:
+      213: 5683441400746261361
+    second: raptoridlesheetclean_8
+  - first:
+      213: 3965443852942123846
+    second: raptoridlesheetclean_9
+  - first:
+      213: -941993925176894748
+    second: raptoridlesheetclean_10
+  - first:
+      213: 4700351909170220700
+    second: raptoridlesheetclean_11
+  - first:
+      213: -6380797312758338862
+    second: raptoridlesheetclean_12
+  - first:
+      213: -6035970814584554587
+    second: raptoridlesheetclean_13
+  - first:
+      213: 1192665319081878760
+    second: raptoridlesheetclean_14
+  - first:
+      213: -3118238264965639288
+    second: raptoridlesheetclean_15
+  - first:
+      213: -4358649126551672004
+    second: raptoridlesheetclean_16
+  - first:
+      213: -2373333972424550933
+    second: raptoridlesheetclean_17
+  - first:
+      213: -8242094922930100918
+    second: raptoridlesheetclean_18
+  - first:
+      213: 3846080002276778381
+    second: raptoridlesheetclean_19
+  - first:
+      213: -6149076786829533283
+    second: raptoridlesheetclean_20
+  - first:
+      213: -5828012181080260862
+    second: raptoridlesheetclean_21
+  - first:
+      213: 4307456368932628193
+    second: raptoridlesheetclean_22
+  - first:
+      213: -1927335389809252391
+    second: raptoridlesheetclean_23
+  - first:
+      213: -3129220371430363624
+    second: raptoridlesheetclean_24
+  - first:
+      213: 7250906241949465417
+    second: raptoridlesheetclean_25
+  - first:
+      213: 3040774739556548801
+    second: raptoridlesheetclean_26
+  - first:
+      213: -5685891310488407511
+    second: raptoridlesheetclean_27
+  - first:
+      213: -3471091513915295870
+    second: raptoridlesheetclean_28
+  - first:
+      213: -2547091041595148473
+    second: raptoridlesheetclean_29
+  - first:
+      213: 636723105206850382
+    second: raptoridlesheetclean_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raptoridlesheetclean_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc4ca38235068e30800000000000000
+      internalID: 4505294191746370738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8c441d8cd11670800000000000000
+      internalID: 8507823669568637756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d9aa6034b142ea0800000000000000
+      internalID: -5898559637259903591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959782895568cc00800000000000000
+      internalID: 921097558913684893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db90e0f84efee85a0800000000000000
+      internalID: -6517007845826885187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71c1d167a849a020800000000000000
+      internalID: 2353492164015669627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c03803c9fe42e160800000000000000
+      internalID: 7053286801041535170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b6c0c3f7ad4c80800000000000000
+      internalID: -8336822669839780619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bba3187d3afde40800000000000000
+      internalID: 5683441400746261361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432f57ac26180730800000000000000
+      internalID: 3965443852942123846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_10
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5145148d5de2f0800000000000000
+      internalID: -941993925176894748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_11
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e8b6968210b3140800000000000000
+      internalID: 4700351909170220700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_12
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa545a6aad277a0800000000000000
+      internalID: -6380797312758338862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_13
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abff0a268ceb3ca0800000000000000
+      internalID: -6035970814584554587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_14
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4adc7e9c23d8010800000000000000
+      internalID: 1192665319081878760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_15
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88351b3b1dac9b4d0800000000000000
+      internalID: -3118238264965639288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_16
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b225766b7f283c0800000000000000
+      internalID: -4358649126551672004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_17
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be594489359301fd0800000000000000
+      internalID: -2373333972424550933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_18
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4563b906523e9d80800000000000000
+      internalID: -8242094922930100918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_19
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e0797265006530800000000000000
+      internalID: 3846080002276778381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_20
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fdc68dd371aaaa0800000000000000
+      internalID: -6149076786829533283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_21
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fbf08accdbe1fa0800000000000000
+      internalID: -5828012181080260862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_22
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e629b3eeb827cb30800000000000000
+      internalID: 4307456368932628193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_23
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d76167acaab045e0800000000000000
+      internalID: -1927335389809252391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_24
+      rect:
+        serializedVersion: 2
+        x: 8592
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2af8c6a6c294d0800000000000000
+      internalID: -3129220371430363624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_25
+      rect:
+        serializedVersion: 2
+        x: 8950
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b7f036fc460a460800000000000000
+      internalID: 7250906241949465417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_26
+      rect:
+        serializedVersion: 2
+        x: 9308
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0cf31d380033a20800000000000000
+      internalID: 3040774739556548801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_27
+      rect:
+        serializedVersion: 2
+        x: 9666
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922bbde6af7a711b0800000000000000
+      internalID: -5685891310488407511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_28
+      rect:
+        serializedVersion: 2
+        x: 10024
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b432a8a434dfc0800000000000000
+      internalID: -3471091513915295870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_29
+      rect:
+        serializedVersion: 2
+        x: 10382
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7473427513ae6acd0800000000000000
+      internalID: -2547091041595148473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raptoridlesheetclean_30
+      rect:
+        serializedVersion: 2
+        x: 10740
+        y: 0
+        width: 358
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43532a6a4816d800800000000000000
+      internalID: 636723105206850382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

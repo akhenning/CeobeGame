@@ -5,12 +5,20 @@ using UnityEngine;
 public class TargetBehavior : MonoBehaviour
 {
     Vector2 move;
-    public int hp = 2;
+    public int type;
+    public int hp;
     public Animator animator;
     // Start is called before the first frame update
     void Start()
     {
-        move = new Vector2((float)(Random.value+.2)/-10,0);
+        if (type == 1) {
+            //boss
+            hp = 10;
+            move = new Vector2((float)(Random.value+.2)/-25,0);
+        } else {
+            hp = 2;
+            move = new Vector2((float)(Random.value+.2)/-10,0);
+        }
     }
 
     // Update is called once per frame
@@ -19,6 +27,7 @@ public class TargetBehavior : MonoBehaviour
         transform.Translate(move);
         if (transform.position.x < -10) {
             // fail
+            ScoreManager.leaks += 1;
             Destroy(gameObject);
         }
     }
@@ -28,7 +37,9 @@ public class TargetBehavior : MonoBehaviour
         if (hp <= 0) {
             Destroy(gameObject);
         } else {
-            animator.SetInteger("State",1);
+            if (type == 0) {
+                animator.SetInteger("State",1);
+            }
         }
     }
 }
